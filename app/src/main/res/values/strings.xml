@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment_BigStep</string>
+    <string name="title_home">Home</string>
+    <string name="title_info">History</string>
+    <string name="network_error">Internet connection lost, please retry again</string>
+    <string name="network_connection">Internet connected</string>
+</resources>
